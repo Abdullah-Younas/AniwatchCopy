@@ -30,7 +30,7 @@ function MHEADER(){
                         </p>
                     </div>
                     <div className='second-container'>
-                        <img src= "\public\img\aniCharmin.png" alt='img'/>
+                        <img src= "\public\aniCharmin.png" alt='img'/>
                     </div>
             </div>
             </div>
