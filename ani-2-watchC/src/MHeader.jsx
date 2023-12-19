@@ -1,4 +1,4 @@
-import './styles/MHEADER.css'
+import './styles/MHEADERsty.css'
 
 function MHEADER(){
     let topsearches = ["Jujutsu Kaisen 2nd Season,", "  One Piece,", "  Naruto: Shippuden,", "  Jujutsu Kaisen (TV),","  Attack on Titan,", "  Boruto,", "  Berserk,", "  Dr Stone 3rd Season,", " ..."];
