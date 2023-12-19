@@ -1,0 +1,9 @@
+.footer-main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+}
+.footer-main-div p{
+    transform: translateY(70px) translateX(-470px);
+}
