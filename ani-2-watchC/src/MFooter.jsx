@@ -1,4 +1,4 @@
-import './styles/MFootersty.css'
+import './MFootersty.css'
 
 function MFooter(){
     return(

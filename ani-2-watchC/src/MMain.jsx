@@ -1,4 +1,4 @@
-import './styles/MMainsty.css'
+import './MMainsty.css'
 
 function MMain(){
     return(
