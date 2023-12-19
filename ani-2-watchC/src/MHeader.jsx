@@ -1,5 +1,6 @@
 import './MHeadersty.css'
-import aniCharminLogo from './bluemountains.jpg'
+import aniCharminLogo from './aniCharmin.png'
+import siteLogo from './logo.png'
 
 function MHEADER(){
     let topsearches = ["Jujutsu Kaisen 2nd Season,", "  One Piece,", "  Naruto: Shippuden,", "  Jujutsu Kaisen (TV),","  Attack on Titan,", "  Boruto,", "  Berserk,", "  Dr Stone 3rd Season,", " ..."];
@@ -20,7 +21,7 @@ function MHEADER(){
                 </nav>
                 <div className='header-containers'>
                     <div className='first-container'>
-                        <img src="\src\img\logo.png" alt="aniwatchLOGO" />
+                        <img src={siteLogo} alt="aniwatchLOGO" />
                         <div className='first-con-con'>
                             <input type="search" placeholder='Search anime...'/>
                             <button><i class="fa-solid fa-magnifying-glass"></i></button>
