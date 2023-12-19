@@ -1,4 +1,5 @@
 import './MHeadersty.css'
+import aniCharminLogo from './bluemountains.jpg'
 
 function MHEADER(){
     let topsearches = ["Jujutsu Kaisen 2nd Season,", "  One Piece,", "  Naruto: Shippuden,", "  Jujutsu Kaisen (TV),","  Attack on Titan,", "  Boruto,", "  Berserk,", "  Dr Stone 3rd Season,", " ..."];
@@ -30,7 +31,7 @@ function MHEADER(){
                         </p>
                     </div>
                     <div className='second-container'>
-                        <img src= "\public\aniCharmin.png" alt='img'/>
+                        <img src= {aniCharminLogo} alt='img'/>
                     </div>
             </div>
             </div>
